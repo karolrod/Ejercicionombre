@@ -11,8 +11,7 @@ public class Nombres {
 		Object nombre = ingreso.next();
 		System.out.println("Ingrese Apellido:");
 		Object apellido = ingreso.next();
-		System.out.println(nombre);
-		System.out.println(apellido);
+		System.out.println(nombre + " " + apellido);
 
 	}
 
